@@ -3,6 +3,16 @@ a {
   text-decoration: none;
 }
 
+.resume-bottom a {
+  color: white;
+  text-decoration: none;
+}
+
+.resume a {
+  color: white;
+  text-decoration: none;
+}
+
 .nav {
   position: absolute;
   display: flex;
