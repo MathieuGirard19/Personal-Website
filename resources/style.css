@@ -3,16 +3,6 @@ a {
   text-decoration: none;
 }
 
-.resume-bottom a {
-  color: white;
-  text-decoration: none;
-}
-
-.resume a {
-  color: white;
-  text-decoration: none;
-}
-
 .nav {
   position: absolute;
   display: flex;
@@ -192,4 +182,9 @@ a {
 
 .resume:hover {
   background-color: #36B2EC;
+}
+
+.resume h1 {
+  color: white;
+  text-decoration: none;
 }
